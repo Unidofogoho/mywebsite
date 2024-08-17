@@ -225,16 +225,16 @@ span{
 
 @keyframes words{
     0%, 20%{
-        content: "A Wanted Criminal";
+        content: "Wanted Criminal";
     }
     21%, 40%{
-        content: "A Philantrophist(when it benefits me)";
+        content: "Philantrophist(for myself)";
     }
     41%, 60%{
-        content: "A Sexy Guy";
+        content: "Sexy Guy";
     }
     61%, 80%{
-        content: "A Youtuber";
+        content: "Youtuber";
     }
     81%, 100%{
         content: "The Goat";
